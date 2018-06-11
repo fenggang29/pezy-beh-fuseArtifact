@@ -1,0 +1,7 @@
+user=fenggang
+company=fenggang's Code
+email=fg191392@163.com
+edition=enterprise
+release-version=1.0.0
+valid-until=2018-02-01
+mac=6C-92-BF-38-C3-1A
